@@ -9,4 +9,3 @@ A.4 Concept Node Properties
 
 ## B complete table of the problem selection and filtering criteria   [open](./Table%20B.md)
 B.1 Benchmark Scores of Luogu\
-[文档说明](./doc.md)
